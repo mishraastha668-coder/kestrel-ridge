@@ -1,0 +1,5 @@
+# BLUEHERON config backup - rotate before go-live
+db_host=10.0.4.12
+db_user=bh_svc
+region=ap-south-1
+deploy_secret=Q1RGe2QwcmsxbmdfZjFuZHNfd2g0dF9oaWQzc30=
